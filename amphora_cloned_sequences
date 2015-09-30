@@ -1,32 +1,33 @@
 
-> MC19775992IE1A [organism=Triticaceae sp.] [uncultured clone] [trnL-trnF intergenic spacer, partial sequence] GGCAATCCTGAGCCAAATCCGTGTTTTGAGAAAACAAGGGGTTCTCGAACTGGAATACAAAGGAAAAGGATAGGTGCAGAGACTC
+> MC19775992IE1A [organism=Triticaceae sp.] [uncultured clone] [trnL-trnF intergenic spacer, partial sequence] 
+GGCAATCCTGAGCCAAATCCGTGTTTTGAGAAAACAAGGGGTTCTCGAACTGGAATACAAAGGAAAAGGATAGGTGCAGAGACTC
 
 > MC19775992IE1C [organism=] [uncultured clone] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAAATAACTAAAAGCTCAGAAAAAAAGGATAGGTGCAGAGACTC
 
-> MC745C [organism=] [uncultured clone1] PREDICTED_trnL_Vicia_faba  [trnL-trnF intergenic spacer, partial sequence]
+> MC745C [organism=Vicia sp.] [uncultured clone1] PREDICTED_trnL_Vicia_faba  [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAAAAAACTAAAAGTTCAGAAAAAAAGGATAGGTGCAGAGACTC
 
-> MC745C [organism=] [uncultured clone2] [PREDICTED_trnL_Unidentified_Fabaceae_sequence1  [trnL-trnF intergenic spacer, partial sequence]
+> MC745C [organism=Fabaceae sp.] [uncultured clone2] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAAAAAAAGAGAAGTTCAGGAAGTTAAAAAAAAA-GGGATAGGTGCAGAGACTC
 
-> MC745C [organism=] [uncultured clone3]  [PREDICTED_trnL_Unidentified_Fabaceae_sequence2  [trnL-trnF intergenic spacer, partial sequence]
+> MC745C [organism=Fabaceae sp.] [uncultured clone3]  [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAATAAAAGAAAAGTTCAGGAAGTTAAAAAAAAAAAGGATAGGTGCAGAGACTC
 
-> MC745C [organism=] [uncultured clone4] [PREDICTED_trnL_Unidentified_Fabaceae_sequence3  [trnL-trnF intergenic spacer, partial sequence]
+> MC745C [organism=Fabaceae sp.] [uncultured clone4] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAATACAAAAAAAGAAAAGTTCAGGAAGTTAAAAAAAAAAAGGGAAGGGGGCGGAG
 
-> MC745C [organism=] [uncultured clone5] [PREDICTED_trnL_Unidentified_Fabaceae_sequence4  [trnL-trnF intergenic spacer, partial sequence]
+> MC745C [organism=Fabaceae sp.] [uncultured clone5] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAAAAAAAGAAAAGTTCAGAAAGTTAAAAAAAAA—GGATAGGTGCAGAGACTC
 
-> MC745D [organism=] [uncultured clone1] PREDICTED_trnL_Vicia_faba  [trnL-trnF intergenic spacer, partial sequence]
+> MC745D [organism=Vicia sp.] [uncultured clone1] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCAAAAACAAAAAACTAAAAGTTCAGAAAAAAAGGATAGGTGCAGAGACTC
 
-> MC745D [organism=] [uncultured clone 2] PREDICTED_trnL_Unidentified_Fabaceae_sequence1  [trnL-trnF intergenic spacer, partial sequence]
+> MC745D [organism=Fabaceae sp.] [uncultured clone 2] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCTGAAAACAGAAAACTAAAAGTTCAGAAAAAAGGATAGGTGCAGAGACTC
 
-> MC745D [organism=] [uncultured clone 3] [PREDICTED_trnL_Unidentified_Fabaceae_sequence2  [trnL-trnF intergenic spacer, partial sequence]
+> MC745D [organism=Fabaceae sp.] [uncultured clone 3] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAAAATACTAAAAGTTCAGAAAAAAAGGA
 
-> MC745D [organism=] [uncultured clone 4] PREDICTED_trnL_Unidentified_Fabaceae_sequence3	  [trnL-trnF intergenic spacer, partial sequence]
+> MC745D [organism=Fabaceae sp.] [uncultured clone 4] [trnL-trnF intergenic spacer, partial sequence]
 GGCAATCCTGAGCCAAATCCTTCTTTCCGAAAACAAAAAACTAAAAGTTCAGAAAAAAAGGATAGGTGCAGAGACTC
